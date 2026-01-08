@@ -413,7 +413,8 @@ FodyWeavers.xsd
 # Windows Installer files from build outputs
 *.cab
 
-# Txt gerado da árvore
+# Txt gerado da árvore e executavel
+trabalho_tp.exe
 teste_auto.txt
 *.msi
 *.msix
